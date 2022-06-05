@@ -43,13 +43,13 @@ __________________𝐱______________________
   
   𝐀𝐮𝐭𝐡𝐞𝐫   :  𝐂𝐡𝐚𝐫𝐬𝐢 𝐱 𝐍𝐚𝐰𝐚𝐛
  
-  𝐆𝐢𝐭𝐇𝐮𝐛   :  https://github.com/Charsi-Pro
+  𝐆𝐢𝐭𝐇𝐮𝐛   :  https://github.com/Charsi-Pro'
 
-  𝐅𝐚𝐜𝐞𝐁𝐨𝐨𝐤 : https://www.facebook.com/CHARSI.BR4ND
+  𝐅𝐚𝐜𝐞𝐁𝐨𝐨𝐤 : https://www.facebook.com/CHARSI.BR4ND'
   
   𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 : 03110760985
 __________________𝐱______________________\033[1;37m""")
-
+        print ''
         print '\x1b[93;1mHello Selamat Datang Ngab \x1b[0m'
         print '\x1b[1;92mDilarang Memperjual Belikan Sc Ini!!\x1b[0m'
         print ''
